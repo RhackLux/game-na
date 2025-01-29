@@ -64,7 +64,7 @@ export default function Page() {
         </BlurFade>
            {/* Calendly Button */}
         <a
-            href="https://calendly.com/your-calendar-link"  // Replace with your Calendly link
+            href="https://calendly.com/rockygannaban9/free-services"  // Replace with your Calendly link
             target="_blank"
             rel="noopener noreferrer"
           >
